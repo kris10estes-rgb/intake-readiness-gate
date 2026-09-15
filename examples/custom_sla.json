@@ -1,0 +1,21 @@
+{
+  "opportunity_name": "National retail network, custom support",
+  "vertical": "Retail",
+  "engagement_type": "New business",
+  "response_type": "RFP",
+  "sales_owner": "Account executive",
+  "multi_output": "More than 2",
+  "endpoint_count": 4200,
+  "new_vendor": "Yes",
+  "origination": "Originated from concept",
+  "ops_deliverable": "POS-driven",
+  "localization": "Bilingual",
+  "deployment_scope": "Network-wide",
+  "migration_type": "Platform to platform",
+  "sla": "Custom",
+  "after_hours": "Yes",
+  "opportunity_logged": "Yes",
+  "sow_exists": "No",
+  "owner_assigned": "Yes",
+  "kickoff_scheduled": "No"
+}
