@@ -4,6 +4,8 @@ A nine-stage intake gate for operations work. A deal does not reach the delivery
 
 Built by Kristen Estes, a Director of Content Operations with 20 years in creative and content ops and a PMP, as a public proof-of-work for senior AI Product and AI Operations roles. [LinkedIn](https://www.linkedin.com/in/kris10estes)
 
+**For AI enablement teams:** the gate flags risk on its own, so a new teammate follows the rules on day one without memorizing them first.
+
 This is the logic behind the interactive gate on my systems portfolio, pulled out into code so it can be read, tested, and reused. Client, platform, and vendor detail is withheld; the managed lists are placeholders.
 
 ## What it does
