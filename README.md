@@ -2,7 +2,7 @@
 
 A nine-stage intake gate for operations work. A deal does not reach the delivery team until every stage clears, and the form flags the risks on its own so the person filling it in does not have to know the rules.
 
-Built by Kristen Estes, a Director of Content Operations with 20 years in creative and content ops and a PMP, as a public proof-of-work for senior AI Product and AI Operations roles. [LinkedIn](https://www.linkedin.com/in/kris10estes)
+Built by Kristen Estes, a Director of Content Operations with 20 years in creative and content ops and a PMP, as a working example of how I build AI operations systems. [LinkedIn](https://www.linkedin.com/in/kris10estes)
 
 **For AI enablement teams:** the gate flags risk on its own, so a new teammate follows the rules on day one without memorizing them first.
 
